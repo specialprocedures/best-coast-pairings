@@ -9,6 +9,6 @@ Running ```$ scrape.py``` will pull all available tournament and match data from
 - The returned json is somewhat trimmed at the game level, as the full response includes unnecessary tournament level data which is returned separately.
 
 # To do
-- Tell BCP their database seems to be accessible without a password
+- ~~Tell BCP their database seems to be accessible without a password~~
 - Add CLI arguments for user and password, date range and game type
 
